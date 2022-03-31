@@ -197,7 +197,7 @@ nav{
 
 .evrytitlesections{
       text-align: center;
-    margin: 102px;
+    margin: 80px;
     padding: 30px;
 }
 .evrytitlesections{
@@ -211,7 +211,6 @@ nav{
 
 .evryhsction{
     color: #021055;
-    
     font-weight: bold;
     font-size: 63px;
     text-transform: capitalize;
@@ -259,7 +258,7 @@ margin: 30px 84px;
     font-size: 55px;
     font-weight: bolder;
     letter-spacing: 7px;
-    margin: 30px;
+    margin: 10px;
     margin-left: 0;
 }
 
@@ -286,7 +285,7 @@ padding: 50px;
 .carobody{
 display: flex;
   align-items: center;
-  min-height: 100vh;
+  min-height: 55vh;
 
 }
 .wrapper{
